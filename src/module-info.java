@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mdhos
+ *
+ */
+module Example {
+}
