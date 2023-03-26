@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author mdhos
- *
- */
-module Example {
-}
